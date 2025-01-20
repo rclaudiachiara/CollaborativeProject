@@ -5,6 +5,6 @@ Questo repository è stato creato per esercitazioni con Git e Github in un conte
 sta imparando git hub
 ## Membri del Team
 
-### [Giorgia Valeri]
-[Sta imparando ad usare GitHub]
+### Giorgia Valeri
+Sta imparando ad usare GitHub
 
