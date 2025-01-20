@@ -5,7 +5,7 @@ Questo repository è stato creato per esercitazioni con Git e Github in un conte
 
 ### Claudia Chiara Rossi
 sta imparando git hub
-
+aggiunta extra
 ### [Giorgia Valeri]
 [Sta imparando ad usare GitHub]
 
