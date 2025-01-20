@@ -12,10 +12,9 @@ Sta imparando ad usare GitHub
 
 ### [Eleonora Dcm]
 sta imparando ad usare github
-## Obiettivo del Progetto
-Questo progetto serve per apprendere Git e GitHub in un contesto collaborativo.
-Aggiunta da Mario.
 
-Questo progetto è stato creato per migliorare le competenze di team working.
-Aggiunta da Anna.
+### Risoluzione dei conflitti
+
+aggiunta extra al file readme per prove collaborazioni( claudia)
+Questo progetto è stato creato per migliorare le competenze di team working(giorgia)
 
