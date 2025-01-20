@@ -11,3 +11,5 @@ aggiunta extra
 
 ### [Eleonora Dcm]
 sta imparando ad usare github
+"vi prego basta" 
+"basta" 
