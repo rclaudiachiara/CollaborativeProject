@@ -9,3 +9,5 @@ sta imparando git hub
 ### [Giorgia Valeri]
 [Sta imparando ad usare GitHub]
 
+### [Eleonora Dcm]
+sta imparando ad usare github
