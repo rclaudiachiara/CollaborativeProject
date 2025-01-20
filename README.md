@@ -11,3 +11,4 @@ aggiunta extra
 
 ### [Eleonora Dcm]
 sta imparando ad usare github
+"aggiunta extraal file readme per prove collaborazioni" 
