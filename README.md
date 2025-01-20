@@ -11,10 +11,14 @@ aggiunta extra
 Sta imparando ad usare GitHub
 
 ### [Eleonora Dcm]
-sta imparando ad usare github
+sta imparando ad usare github 
+
 
 ### Risoluzione dei conflitti
 
 aggiunta extra al file readme per prove collaborazioni( claudia)
 Questo progetto è stato creato per migliorare le competenze di team working(giorgia)
+"vi prego basta"   (elenora)
+"basta" 
+
 
